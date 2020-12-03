@@ -1,0 +1,11 @@
+.navbar-expand-lg img {
+  width: 10%;
+  height: 10%;
+}
+.carousel-item {
+  height: 80vh;
+}
+.nav-item a:hover {
+  background: rgb(9, 81, 190);
+  font-weight: 700;
+}
